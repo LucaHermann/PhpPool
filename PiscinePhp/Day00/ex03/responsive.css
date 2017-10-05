@@ -1,0 +1,46 @@
+body {background-image: url("http://media.topito.com/wp-content/uploads/2011/09/lama_bizarre012.jpg");}
+
+td:not(.h1pty) {
+	border: 1.5px solid black;
+				height: 76px;
+				width: 76px;
+				}
+
+tr {border-collapse: collapse;}
+
+h1 {font-size: 3vw;
+	text-align: center;
+	margin: 0}
+
+h2 {text-align: right;
+    font-size: 1vw;
+	margin: 0;}
+
+h3 {text-align: left;
+    font-size: 1vw;
+    margin: 0;}
+
+img{display: flex;
+	margin: auto;
+	margin-bottom: 1vw;}
+
+
+.terreux{background-color: #ff0000;}
+
+.poor{background-color: #006600;}
+
+.transition{background-color: #990073;}
+
+.metalloide{background-color: #00cc66;}
+
+.no{background-color: #4d4d4d;}
+		
+.halogene{background-color: #3399ff;}
+
+.rare{background-color: #0000ff;}
+
+.lanthanide{background-color: #ff6600;}
+
+.actinide{background-color: #cc33ff;}
+
+.alcaline{background-color: #ffff00;}
